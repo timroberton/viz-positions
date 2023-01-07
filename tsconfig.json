@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "incremental": true,
+    "incremental": false,
     "declaration": true, 
     "declarationMap": true,
     "esModuleInterop": true,

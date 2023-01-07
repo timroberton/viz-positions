@@ -1,0 +1,1 @@
+{"version":3,"file":"add_path_data.d.ts","sourceRoot":"","sources":["../src/add_path_data.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAAE,MAAM,kBAAkB,CAAC;AACxC,OAAO,EAAE,YAAY,EAAiC,MAAM,SAAS,CAAC;AACtE,OAAO,EAAe,aAAa,EAAE,MAAM,eAAe,CAAC;AAE3D,wBAAgB,WAAW,CAAC,KAAK,EAAE,IAAI,EAAE,EAAE,YAAY,EAAE,YAAY,EAAE,CAAC,EAAE,aAAa,GAAG,IAAI,CAc7F"}
